@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="prova_git"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
