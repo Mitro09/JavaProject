@@ -1,0 +1,37 @@
+11:37
+Mitrotti Patrick
+
+*************************
+Spedizione 1 ************
+*************************
+PaccoCelere1	[ ID: 1, Peso: 2.5Kg, Costo di Spedizione: 9.9€ ]
+Destinatario	[ ID: 100, Andrea Rossi, Torino, CAP: 10100 ]
+
+_________________________
+*************************
+Spedizione 2 ************
+*************************
+PaccoCelere3	[ ID: 2, Peso: 12.8Kg, Costo di Spedizione: 12.9€ ]
+Destinatario	[ ID: 101, Mario Verdi, Milano, CAP: 20100 ]
+
+_________________________
+*************************
+Spedizione 3 ************
+*************************
+PaccoOrdinario	[ ID: 3, Peso: 10.5Kg, Costo di Spedizione: 9.9€ ]
+Destinatario	[ ID: 102, Paola Neri, Venezia, CAP: 30100 ]
+
+_________________________
+*************************
+Spedizione 4 ************
+*************************
+PaccoCelere1	[ ID: 4, Peso: 15.0Kg, Costo di Spedizione: 14.9€ ]
+Destinatario	[ ID: 103, Luisa Bianchi, Roma, CAP: 00195 ]
+
+_________________________
+
+
+*************************
+RECAP
+*************************
+Totale guadagni da spezioni correnti: 47.6€
