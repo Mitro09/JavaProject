@@ -61,4 +61,15 @@ public class TodoDB {
 		}
 		return todos.get(id);
 	}
+	
+	public Todo merge(Todo td) {
+		Todo tdToMerge = findById(td.getId());
+		if(td.getText() != null) {
+			tdToMerge.setText(td.getText());
+		}
+		if(td.getDone() != null) {
+			tdToMerge.setDone(td.getDone());
+		}
+		return save(tdToMerge);
+	}
 }
